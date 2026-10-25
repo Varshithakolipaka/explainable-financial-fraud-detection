@@ -85,17 +85,7 @@ The screenshot's local explanation displays `emptied = 1` as the strongest suppo
 - A flagged transaction is a review recommendation, not proof of fraud or criminal intent.
 - The reported metrics depend on the exact sample, train/test split, feature engineering, and threshold. Re-run the dashboard before using results in a formal submission.
 
-## Suggested repository structure
 
-```text
-explainable-financial-fraud-detection/
-├── app.R
-├── README.md
-├── report.md
-└── Explainable_Financial_Fraud_Detection_Report.docx
-```
-
-Keep the dataset out of the repository if it exceeds GitHub's file limits; provide the Kaggle source link instead.
 
 ## References
 
